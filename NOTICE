@@ -1,0 +1,12 @@
+# NOTICE
+
+This repository includes reverse-engineering work and adaptations related to third-party projects.
+
+## Referenced project
+
+- **PyLabRobot**: https://github.com/PyLabRobot/pylabrobot
+
+If specific files in this repository are copied from or directly derived from third-party sources,
+those files should retain any required upstream copyright and license notices.
+
+If you discover missing attribution, please open an issue so it can be corrected.
